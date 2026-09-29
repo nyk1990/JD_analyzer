@@ -1,0 +1,17 @@
+com/nkharade/jdanalyzer/embedding/OnnxTextEmbedder.class
+com/nkharade/jdanalyzer/api/AnalysisController.class
+com/nkharade/jdanalyzer/analysis/RequirementMatch.class
+com/nkharade/jdanalyzer/chunking/TextChunker.class
+com/nkharade/jdanalyzer/analysis/AnalysisService.class
+com/nkharade/jdanalyzer/api/AnalysisController$AnalyzeRequest.class
+com/nkharade/jdanalyzer/api/ApiExceptionHandler.class
+com/nkharade/jdanalyzer/config/MatchingProperties.class
+com/nkharade/jdanalyzer/analysis/AnalysisRepository.class
+com/nkharade/jdanalyzer/analysis/MatchScorer.class
+com/nkharade/jdanalyzer/analysis/MatchExplainer.class
+com/nkharade/jdanalyzer/analysis/AnalysisResult.class
+com/nkharade/jdanalyzer/analysis/AnalysisRepository$ChunkHit.class
+com/nkharade/jdanalyzer/analysis/AnalysisRepository$StoredAnalysis.class
+com/nkharade/jdanalyzer/JdAnalyzerApplication.class
+com/nkharade/jdanalyzer/analysis/MatchExplanation.class
+com/nkharade/jdanalyzer/embedding/TextEmbedder.class

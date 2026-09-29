@@ -1,0 +1,14 @@
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/JdAnalyzerApplication.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/analysis/AnalysisRepository.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/analysis/AnalysisResult.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/analysis/AnalysisService.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/analysis/MatchExplainer.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/analysis/MatchExplanation.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/analysis/MatchScorer.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/analysis/RequirementMatch.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/api/AnalysisController.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/api/ApiExceptionHandler.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/chunking/TextChunker.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/config/MatchingProperties.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/embedding/OnnxTextEmbedder.java
+/Users/nikhil/IdeaProjects/JD_analyzer/src/main/java/com/nkharade/jdanalyzer/embedding/TextEmbedder.java
