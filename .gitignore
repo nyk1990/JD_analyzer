@@ -1,0 +1,22 @@
+# Build output
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Secrets and local config (never commit API keys)
+.env
+*.env.local
+
+# Personal data: real resume / JD used for testing
+my-resume.txt
+my-jd.txt
+samples/my-*.json
+
+# Logs
+*.log
